@@ -17,7 +17,7 @@ Download the code and update the .env file with your own credentials. To initial
 ## Usage
 Once the backend is initialized, test that it is working via Insominia Core. To test the GET method, open a GET route to 'http://localhost:3001/api/categories' The GET method for products: '.../products' and tags: '.../tags'. To test the POST method open a post route using the same addresses and create a JSON body with 'category_name', 'product_name', or 'tag_name' to create a new category, product, or tag. To update the name of a category, product, or tag open a PUT route and follow the previous instructions. If you need to delete a category, product, or tag open a DELETE route to '.../{category, product, or tag}/:id and it will be deleted.
 
-Video demonstration of GET, POST, PUT, and DELETE routes can be found here: 
+Video demonstration of GET, POST, PUT, and DELETE routes can be found here: https://drive.google.com/file/d/1ZYM_lKucSZ5xY_Tl8F6ASVk80hK-Lkgi/view?usp=sharing
 
 ## Future Development
 Add front-end of application
